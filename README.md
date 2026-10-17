@@ -1,6 +1,6 @@
 # Daniel Mateos Pérez
 
-Desarrollador Full-Stack Junior | Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) | Ingeniería Informática en curso
+Desarrollador Full-Stack | Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) | Ingeniería Informática en curso
 
 Salamanca, España
 
